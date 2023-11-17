@@ -31,4 +31,6 @@ export default function RootLayout({ children, about, contact }) {
 	  </body>
 	</html>
   );
+
+  
 }
